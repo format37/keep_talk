@@ -1,5 +1,6 @@
 # keep_talk (restored from 2019 archive)
-telegram bot answering gpt2 generated continue of user message
+telegram bot answering gpt2 generated continue of user message   
+https://github.com/ConnorJL/GPT2
 
 # GPT2
 **Disclaimer: This is not the official GPT2 implementation! I've done my best to follow the specifications of the original GPT2 model as closely as possible, but be warned that I have not been able to replicate the full performance of the original model using this code. I don't know why this is, I haven't been able to track down any bug that could be causing this.**
